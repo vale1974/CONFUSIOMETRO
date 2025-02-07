@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#smiley {
+    font-size: 300px; /* Aumenta la dimensione delle faccine */
+    margin-bottom: 10px; /* Spazio tra la faccina e il testo */
+}
+
+#description {
+    font-size: 48px; /* Aumenta la dimensione del testo delle descrizioni */
+    margin-top: 10px; /* Spazio tra la faccina e la descrizione */
+}
